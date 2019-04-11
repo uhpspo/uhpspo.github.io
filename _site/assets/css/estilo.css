@@ -1,0 +1,8 @@
+body{
+    background-color: 	#98FB98
+}
+
+.texto-centralizado p{
+    text-align: center;
+    font-weight: bolder;
+}
