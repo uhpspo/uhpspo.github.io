@@ -1,13 +1,23 @@
-body{
-    background-color: 	rgb(201, 250, 201)
-}
-
 .texto-centralizado p{
     text-align: center;
     font-weight: bolder;
 }
-
+.aumenta-conteudo {
+    height: 480px;
+}
+.texto-negrito {
+    font-weight: bolder;
+}
+.dropdown-item:active{
+    background-color: rgb(39, 146, 44);
+}
+.bg-verde-claro{
+    background-color: rgb(167, 241, 171);
+}
+.btn{
+    background-color: rgb(255, 255, 255);
+}
 #footer {
     margin-top: 20px;
-    background-color: rgb(100, 240, 107);
+    background-color: rgb(167, 241, 171);
 }
