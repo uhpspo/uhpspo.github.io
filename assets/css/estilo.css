@@ -27,6 +27,9 @@ div {
 .navbar{
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
+.fontes-padrao{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
 #footer {
     margin-top: 20px;
     background-color: rgb(167, 241, 171);
