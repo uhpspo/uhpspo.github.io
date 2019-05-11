@@ -1,8 +1,35 @@
-body{
-    background-color: 	#98FB98
-}
-
 .texto-centralizado p{
     text-align: center;
+}
+.icone img{
+    margin-left: 2px;
+    margin-right: 2px;
+}
+.aumenta-conteudo {
+    height: 480px;
+}
+.texto-negrito {
     font-weight: bolder;
+}
+.dropdown-item:active{
+    background-color: rgb(0, 0, 0);
+}
+.bg-verde-claro{
+    background-color: rgb(167, 241, 171);
+}
+.btn{
+    background-color: rgb(255, 255, 255);
+}
+div {
+    text-align: center;
+}
+.navbar{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.fontes-padrao{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#footer {
+    margin-top: 20px;
+    background-color: rgb(167, 241, 171);
 }
