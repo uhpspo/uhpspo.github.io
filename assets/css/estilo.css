@@ -2,8 +2,10 @@
     text-align: center;
 }
 .icone img{
-    margin-left: 2px;
-    margin-right: 2px;
+    margin-left: 4px;
+    margin-right: 4px;
+    margin-top: 4px;
+    margin-bottom: 4px;
 }
 .aumenta-conteudo {
     height: 480px;
@@ -28,6 +30,9 @@ div {
 }
 .fontes-padrao{
     font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.remove-margin{
+    margin-bottom: 0px;
 }
 #footer {
     margin-top: 20px;
