@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="../assets/css/estilo.css">
+    <link rel="icon" href="../assets/images/logo.png" type="image/x-icon" />
+    <link rel="shortcut icon" href="../assets/images/UHP_3D.png" type="image/x-icon" />
+    <title>{{ page.title }}</title>
+</head>
+
+<body>
+    {% include navbar.html %}
+    <div class="container-fluid bg-verde-claro">
+        <h1>{{ page.equipe}}</h1>
+    </div>
+    <div class="container">
+        {{ content }}
+    </div>
+    {% include footer.html %}
+    <script src="../bootstrap/js/jquery-3.3.1.slim.min.js"></script>
+    <script src="../bootstrap/js/popper.min.js"></script>
+    <script src="../bootstrap/js/bootstrap.min.js"></script>
+</body>
+
+</html>
